@@ -1,0 +1,6 @@
+Short description of commit
+Markdown and git practice
+Longer explanation of the motivation for the change
+This is for a quiz
+Fixes-Bug: Enter bug-id or delete line
+Implements-Requirement: Enter requirement-id or delete line
